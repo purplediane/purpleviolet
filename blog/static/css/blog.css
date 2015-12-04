@@ -5,9 +5,10 @@
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #cc28c1;
+    color: #438ccc;
     font-size: 36pt;
     text-decoration: none;
+    text-shadow: 2px 2px 2px #19344c;
 }
 
 .content {
@@ -17,6 +18,7 @@
 h1, h2, h3, h4 {
     font-family: 'Kaushan Script', cursive;
     text-shadow: 2px 2px 2px #aaa;
+    color: #631e99;
 }
 
 .date {
@@ -33,25 +35,50 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #cc28c1;
+    color: #438ccc;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
-    text-shadow: 2px 2px 2px #aaa;
+    text-shadow: 2px 2px 2px #19344c;
 }
 
 .top-menu-small {
-  color: #cc28c1;
+  color: #438ccc;
   float: right;
   font-family: 'Kaushan Script', cursive;
   font-size: 16pt;
   margin-right: 20px;
+  text-shadow: 1px 1px 1px #19344c;
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 20px;
 }
 
 .post h1 a, .post h1 a:visited {
+    color: #631e99;
+}
+
+.fieldset {
+  border: 2px solid;
+  border-radius: 8px;
+  border-color: #631e99;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 1px;
+}
+
+.legend {
+  width: auto;
+  padding-left: 4px;
+  padding-right: 8px;
+  font-family: 'Kaushan Script', cursive;
+  color: #631e99;
+  text-shadow: 2px 2px 2px #aaa;;
+  border-bottom-style: none;
+  margin-bottom: 1px;
+}
+
+.legend a, .legend a:visited {
     color: #631e99;
 }
