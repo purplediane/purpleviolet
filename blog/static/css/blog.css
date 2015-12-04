@@ -40,6 +40,14 @@ h1, h2, h3, h4 {
     text-shadow: 2px 2px 2px #aaa;
 }
 
+.top-menu-small {
+  color: #cc28c1;
+  float: right;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 16pt;
+  margin-right: 20px;
+}
+
 .post {
     margin-bottom: 70px;
 }
