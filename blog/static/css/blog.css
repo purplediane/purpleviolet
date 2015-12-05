@@ -5,7 +5,7 @@
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #438ccc;
+    color: #4794d8;
     font-size: 36pt;
     text-decoration: none;
     text-shadow: 2px 2px 2px #19344c;
@@ -35,7 +35,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #438ccc;
+    color: #4794d8;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -43,7 +43,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu-small {
-  color: #438ccc;
+  color: #4794d8;
   float: right;
   font-family: 'Kaushan Script', cursive;
   font-size: 16pt;
